@@ -1,5 +1,7 @@
 ### Moin 🚢
 
+Happy coding!
+
 <!--
 **woehrl01/woehrl01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
