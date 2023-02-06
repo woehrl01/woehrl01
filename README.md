@@ -1,7 +1,7 @@
 ## Moin! 👋 I'm Lukas
 
 A software engineering manager and backend engineer with a passion for writing efficient, scalable, and maintainable code.
-At plentymarkets, I am responsible for the development and maintenance of the company's cloud platform and I lead a group of talented software engineers.
+At [plentymarkets](https://www.plentymarkets.eu), I am responsible for the development and maintenance of the company's cloud platform and I lead a group of talented software engineers across multiple teams.
 
 ## In addition to my day job
 
