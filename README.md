@@ -1,7 +1,7 @@
 ## Moin! 👋 I'm Lukas
 
 A software engineering manager and backend engineer with a passion for writing efficient, scalable, and maintainable code.
-At [plentymarkets](https://www.plentymarkets.eu), I am responsible for the development and maintenance of the company's cloud platform and I lead a group of talented software engineers across multiple teams.
+At [plentymarkets](https://www.plentymarkets.eu), I lead the development and maintenance of our cutting-edge cloud infrastructure. I lead multiple teams of skilled software engineers, driving innovation and ensuring scalable, efficient, and maintainable solutions. My passion for backend engineering and leadership helps bring out the best in my teams as we build systems that support the company's evolving needs.
 
 ## In addition to my day job
 
@@ -19,7 +19,7 @@ You'll find me spending quality time with my family and son ❤️ or ride my bi
 
 ## Connect
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/lukas-woehrl/) or follow me on [Twitter](https://twitter.com/lwoehrl) to stay updated on my projects and thoughts on software development 💬.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/lukas-woehrl/) to stay updated on my projects and thoughts on software development 💬.
 
 Happy coding!
 
