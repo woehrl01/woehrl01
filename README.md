@@ -1,6 +1,6 @@
 ## Moin! 👋 I'm Lukas
 
-At [plentymarkets](https://www.plentymarkets.eu), I lead the development and maintenance of our cutting-edge cloud infrastructure. I lead multiple teams of skilled software engineers, driving innovation and ensuring scalable, efficient, and maintainable solutions. My passion for backend engineering and leadership helps bring out the best in my teams as we build systems that support the company's evolving needs.
+I lead the development and maintenance of our cutting-edge cloud infrastructure at [plentymarkets](https://www.plentymarkets.eu). I manage multiple teams of skilled software engineers, driving innovation and ensuring scalable, efficient, and maintainable solutions. My passion for backend engineering and leadership helps bring out the best in my teams as we build systems that support the company's evolving needs.
 
 ## In addition to my day job
 
