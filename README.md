@@ -1,13 +1,15 @@
 ## Moin, I'm Lukas 👋
 
-Head of Engineering for Cloud Platform & AI at [PlentyONE](https://www.plentyone.com) (formerly plentymarkets). I lead five teams across platform, infrastructure, container technology and AI, and own the marketplace integration platform and the public Partner API.
+Head of Engineering for Cloud Platform & AI at [PlentyONE](https://www.plentyone.com) (formerly plentysystems AG). I lead five teams and 30 people at peak across platform, infrastructure, container technology and AI, reporting to the CTO, and own the marketplace integration platform and the public Partner API.
+
+GitHub shows the hands-on side of my work. For the leadership side (teams, organisation design, budgets), see [woehrl.net](https://www.woehrl.net).
 
 My rule of thumb: **complexity has to earn its place**, in architecture and in organisations.
 
 ### 🛠️ What my teams run
 
 - A Kubernetes platform behind 10,000+ customer systems, across multiple clusters, availability zones and regions
-- GitOps with Argo CD and ring-based rollouts that stop automatically on error spikes: ~100 production releases per working day
+- GitOps with Argo CD and ring-based rollouts that stop automatically on error spikes: ~100 company-wide production releases per working day
 - 40% lower monthly cloud compute cost since 2023, while product usage grew
 - AI coding agents with shared skills and governance, used daily by 93% of our engineers
 
@@ -15,9 +17,10 @@ My rule of thumb: **complexity has to earn its place**, in architecture and in o
 
 424 commits merged into 33 open-source projects since 2014. When a tool we depend on lacks something, I'd rather fix it upstream than maintain an in-house fork.
 
-- **[Yoga](https://github.com/facebook/yoga/commits?author=woehrl01)**: main external contributor; added percentage-based sizing and fixed many layout bugs in the engine behind React Native
-- **[PyViCare](https://github.com/openviess/PyViCare)**: maintainer of the Python library for Viessmann heating devices
-- Contributions to [metacontroller](https://github.com/metacontroller/metacontroller/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged), [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector-contrib/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged), [Argo CD](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged), [Karpenter](https://github.com/aws/karpenter-provider-aws/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged), [Kyverno](https://github.com/kyverno/kyverno/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged), [React Native](https://github.com/facebook/react-native/commits?author=woehrl01) and [SymmetricDS](https://github.com/jumpmind/symmetric-ds)
+- **[Yoga](https://github.com/react/yoga/commits?author=woehrl01)**, the layout engine behind React Native: main external contributor; added percentage-based sizing and fixed many layout bugs
+- **[PyViCare](https://github.com/openviess/PyViCare/commits?author=woehrl01)**: co-maintainer of the Python library for Viessmann heating devices
+- **[SymmetricDS](https://github.com/jumpmindinc/symmetric-ds/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged)**: 40+ merged pull requests to the open-source database replication and synchronisation engine
+- Contributions to [metacontroller](https://github.com/metacontroller/metacontroller/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged), [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector-contrib/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged), [Argo CD](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged), [Karpenter](https://github.com/aws/karpenter-provider-aws/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged) and [Kyverno](https://github.com/kyverno/kyverno/pulls?q=is%3Apr+author%3Awoehrl01+is%3Amerged)
 
 Built here: [pod-pacemaker](https://github.com/woehrl01/pod-pacemaker) (Kubernetes operator that paces pod start-ups per node) and [aws-auth-jwt](https://github.com/woehrl01/aws-auth-jwt) (IAM role in, signed JWT out).
 
